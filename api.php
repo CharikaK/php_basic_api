@@ -52,3 +52,4 @@ switch($method){
     default:
     echo json_encode(["message" => "Invalid request method"]);
 }
+// https://www.geeksforgeeks.org/building-a-rest-api-with-php-and-mysql/
